@@ -1,0 +1,29 @@
+{
+  "name": "cl-polymer-entity-toast-manager",
+  "version": "1.0.0",
+  "description": "Claiment Polymer Entity Toast Manager",
+  "main": "cl-polymer-entity-toast-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claimentrakgwale/cl-polymer-entity-toast-manager.git"
+  },
+  "keywords": [
+    "Polymer"
+  ],
+  "author": "Claiment Thabiso Rakgwale",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/claimentrakgwale/cl-polymer-entity-toast-manager/issues"
+  },
+  "homepage": "https://github.com/claimentrakgwale/cl-polymer-entity-toast-manager#readme",
+  "dependencies": {
+    "@polymer/decorators": "^3.0.0",
+    "@polymer/paper-toast": "^3.0.1",
+    "@polymer/polymer": "^3.5.1",
+    "cl-polymer-button": "^1.0.1",
+    "cl-polymer-element-helpers": "^1.0.1"
+  }
+}
